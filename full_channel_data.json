@@ -1,0 +1,791 @@
+{
+  "channel_info": {
+    "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+    "channel_name": "freeCodeCamp.org",
+    "description": "Learn math, programming, and computer science for free. A 501(c)(3) tax-exempt charity. We also run a free learning interactive platform at freecodecamp.org",
+    "custom_url": "@freecodecamp",
+    "created_at": "2014-12-16",
+    "country": "US",
+    "default_language": "N/A",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s800-c-k-c0x00ffffff-no-rj",
+    "subscribers": "11600000",
+    "total_views": "966813286",
+    "total_videos": "2223",
+    "hidden_subscribers": false,
+    "channel_keywords": "\"coding bootcamp\" \"learn to code\" \"software engineer\" nonprofits \"full stack\" \"front end\" developer programmer javascript python \"web development\" technology math coding css html \"web design\" \"data science\" linux \"learn programming\" \"machine learning\"",
+    "unsubscribed_trailer": "pCtkD5AMbDo",
+    "privacy_status": "public",
+    "is_linked": true,
+    "long_upload_status": "longUploadsUnspecified",
+    "made_for_kids": false,
+    "topic_categories": [
+      "https://en.wikipedia.org/wiki/Knowledge",
+      "https://en.wikipedia.org/wiki/Technology",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ],
+    "uploads_playlist_id": "UU8butISFwT-Wl7EV0hUK0BQ"
+  },
+  "videos": [
+    {
+      "video_id": "bMknfKXIFA8",
+      "title": "React Course - Beginner's Tutorial for React JavaScript Library [2022]",
+      "published_at": "2022-01-10",
+      "description": "🎉 Watch the updated version of this course: https://youtu.be/x4rFhThSX04\n\nLearn React by building eight real-world projects and solving 140+ coding challenges. You can also follow this course interact",
+      "tags": "",
+      "duration": "PT11H55M28S",
+      "views": 4252230,
+      "likes": 74171,
+      "comments": 2651,
+      "thumbnail": "https://i.ytimg.com/vi/bMknfKXIFA8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=bMknfKXIFA8"
+    },
+    {
+      "video_id": "6ERdu4k62wI",
+      "title": "Use PHP to Create an MVC Framework - Full Course",
+      "published_at": "2020-10-22",
+      "description": "Learn how to use PHP to build an MVC framework from scratch.\n\nYou will get an understanding of how frameworks are made. The framework you build is not production-ready.\n\nDuring this project we will le",
+      "tags": "php, php mvc, php mvc framework, php custom router, php mvc framework from scratch, how to build php framework, how to build mvc framework, mvc framework in PHP, php custom routing, TheCodeholic, php custom MVC, PHP login & registration, PHP authentication, PHP authorization, create composer package, create custom mvc framework",
+      "duration": "PT6H3M47S",
+      "views": 274663,
+      "likes": 6791,
+      "comments": 350,
+      "thumbnail": "https://i.ytimg.com/vi/6ERdu4k62wI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=6ERdu4k62wI"
+    },
+    {
+      "video_id": "zfvxp7PgQ6c",
+      "title": "Python and Pygame Tutorial - Build Tetris! Full GameDev Course",
+      "published_at": "2018-12-05",
+      "description": "Learn how to code Tetris in Python with Pygame in this full tutorial. This Python Pygame tutorial is meant for intermediate programmers with some experience, but everyone is welcome to follow along.\n\n",
+      "tags": "python game tutorial, pygame, python, pygame tutorial, pygame tutorial python 3, pygame tutorial for beginners, tetris tutorial python, tetris pygame, tetris tutorial, intermediate python tutorial",
+      "duration": "PT1H40M45S",
+      "views": 233834,
+      "likes": 3182,
+      "comments": 153,
+      "thumbnail": "https://i.ytimg.com/vi/zfvxp7PgQ6c/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=zfvxp7PgQ6c"
+    },
+    {
+      "video_id": "LrZNeyK1xU8",
+      "title": "Sexy Typography: CSS Tutorial (Day 2 of CSS3 in 30 Days)",
+      "published_at": "2018-09-12",
+      "description": "Use CSS3 to create visually attractive typography and cool text effects!\n\n⭐️Files you need ⭐️\n💻Sexy Typography Code: https://www.dropbox.com/sh/dcpp6gi7bntuyo2/AABvqo_REODZdRRufsbsvBJHa?dl=0\n💻All tuto",
+      "tags": "css, css tutorial, css course, css tutorial for beginners, css3, text effects, typography, css3 tutorial, css3 in 30 days, style buttons, style buttons css, learn css",
+      "duration": "PT11M55S",
+      "views": 49387,
+      "likes": 877,
+      "comments": 37,
+      "thumbnail": "https://i.ytimg.com/vi/LrZNeyK1xU8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LrZNeyK1xU8"
+    },
+    {
+      "video_id": "4m9j6hlbf4g",
+      "title": "IT Fundamentals Course – Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, Linux",
+      "published_at": "2026-04-28",
+      "description": "This course provides a solid foundation to start building your technical skills and understanding of modern IT concepts.\n\nMore courses from Eissa Abousherif:\nhttps://www.udemy.com/user/dolfined/\n\n❤️ S",
+      "tags": "",
+      "duration": "PT13H2M11S",
+      "views": 33791,
+      "likes": 2553,
+      "comments": 76,
+      "thumbnail": "https://i.ytimg.com/vi/4m9j6hlbf4g/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=4m9j6hlbf4g"
+    },
+    {
+      "video_id": "ozWrlHQGuvI",
+      "title": "3D Web Development with Blender and Three.js – Create a Cozy Café Portfolio",
+      "published_at": "2026-04-22",
+      "description": "Take your creative web development to the next level by building an interactive 3D cozy cafe portfolio from scratch using Blender and Three.js. This course covers professional workflows, covering ever",
+      "tags": "",
+      "duration": "PT5H24M28S",
+      "views": 32243,
+      "likes": 1523,
+      "comments": 43,
+      "thumbnail": "https://i.ytimg.com/vi/ozWrlHQGuvI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ozWrlHQGuvI"
+    },
+    {
+      "video_id": "xapvhkhlPNI",
+      "title": "Build a Shopping List for the Command Line - Python Basics with Sam",
+      "published_at": "2020-08-25",
+      "description": "Learn the basics of Python live from Sam Focht every Tuesday. This is part of a series that will cover the entire Python Programming language.\n\nCheck out Sam's YouTube channel: https://www.youtube.com",
+      "tags": "",
+      "duration": "PT1H6M31S",
+      "views": 28874,
+      "likes": 715,
+      "comments": 20,
+      "thumbnail": "https://i.ytimg.com/vi/xapvhkhlPNI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=xapvhkhlPNI"
+    },
+    {
+      "video_id": "XKOR4h3CrwE",
+      "title": "Gemini CLI Essentials – Full Course",
+      "published_at": "2026-04-24",
+      "description": "Learn how to use the Gemini CLI for agentic coding.\n\nCreated by @ExamProChannel \n\nCourse info: https://www.exampro.co/exp-gemini-cli-01\n\n❤️ Support for this channel comes from our friends at Scrimba –",
+      "tags": "",
+      "duration": "PT3H49M40S",
+      "views": 24480,
+      "likes": 696,
+      "comments": 24,
+      "thumbnail": "https://i.ytimg.com/vi/XKOR4h3CrwE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=XKOR4h3CrwE"
+    },
+    {
+      "video_id": "wApaJjvNZFs",
+      "title": "Stanford's Elite Student Hackathon – Full Documentary on Tree Hacks 2026",
+      "published_at": "2026-04-29",
+      "description": "This documentary will introduce you to the high-energy environment of Tree Hacks 2026, Stanford's annual student hackathon, where 1,000 elite hackers selected from 15,000 applicants gather at the Palo",
+      "tags": "",
+      "duration": "PT1H42M23S",
+      "views": 10726,
+      "likes": 622,
+      "comments": 32,
+      "thumbnail": "https://i.ytimg.com/vi/wApaJjvNZFs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=wApaJjvNZFs"
+    },
+    {
+      "video_id": "38-3cShsQBc",
+      "title": "We all know AI can be...divisive. Justin lays out a key reason why in his chat with Quincy.",
+      "published_at": "2026-04-27",
+      "description": "We all know AI can be...divisive. Justin lays out a key reason why in his chat with Quincy.",
+      "tags": "",
+      "duration": "PT58S",
+      "views": 7992,
+      "likes": 77,
+      "comments": 1,
+      "thumbnail": "https://i.ytimg.com/vi/38-3cShsQBc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=38-3cShsQBc"
+    },
+    {
+      "video_id": "oHAiHuEVo8A",
+      "title": "Hot take from the fCC podcast: Use LLMs but don't treat them as a silver bullet.",
+      "published_at": "2026-04-28",
+      "description": "Here's a hot take: Use LLMs but don't treat them as a silver bullet. Chris discusses why on the freeCodeCamp podcast.",
+      "tags": "",
+      "duration": "PT57S",
+      "views": 4123,
+      "likes": 34,
+      "comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/oHAiHuEVo8A/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=oHAiHuEVo8A"
+    },
+    {
+      "video_id": "yG-bGpD38Rw",
+      "title": "If you suddenly lost all your programming knowledge, what should you focus on learning today?",
+      "published_at": "2026-04-29",
+      "description": "If you suddenly lost all your programming knowledge, what should you focus on learning today? Swyx discusses this with Quincy on the freeCodeCamp podcast.",
+      "tags": "",
+      "duration": "PT52S",
+      "views": 2634,
+      "likes": 42,
+      "comments": 0,
+      "thumbnail": "https://i.ytimg.com/vi/yG-bGpD38Rw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=yG-bGpD38Rw"
+    }
+  ],
+  "playlists": [
+    {
+      "playlist_id": "PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r",
+      "title": "Live Coding with Jesse",
+      "description": "",
+      "published_at": "2017-05-05",
+      "total_videos": 226,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M",
+      "title": "Tutorials",
+      "description": "",
+      "published_at": "2017-09-19",
+      "total_videos": 174,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo",
+      "title": "Talks",
+      "description": "",
+      "published_at": "2018-02-07",
+      "total_videos": 115,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbm04DK8TSUCRheRjW2P9TR7",
+      "title": "the freeCodeCamp.org podcast",
+      "description": "Raw, unedited interviews with developers, done by freeCodeCamp founder Quincy Larson.",
+      "published_at": "2024-01-25",
+      "total_videos": 109,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbm04DK8TSUCRheRjW2P9TR7"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH",
+      "title": "React Project 5 - Live Coding with Jesse",
+      "description": "In this project we use React, NextJS, Apollo, GraphQL, MaterialUI, WordPress, WPGraphQL.",
+      "published_at": "2018-03-29",
+      "total_videos": 103,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_",
+      "title": "Beau teaches JavaScript",
+      "description": "",
+      "published_at": "2017-02-08",
+      "total_videos": 92,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO",
+      "title": "Full Courses in One Video",
+      "description": "",
+      "published_at": "2018-08-02",
+      "total_videos": 52,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy",
+      "title": "Computer Science and Software Engineering Theory with Briana",
+      "description": "",
+      "published_at": "2015-08-03",
+      "total_videos": 43,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5",
+      "title": "JavaScript Basics Course",
+      "description": "This is a complete JavaScript course!",
+      "published_at": "2017-02-27",
+      "total_videos": 36,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1",
+      "title": "Maths for Programmers",
+      "description": "",
+      "published_at": "2016-10-04",
+      "total_videos": 35,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkxYR9ly9ksx8UYyCpBRmMc",
+      "title": "Jesse Builds a React Project Live",
+      "description": "",
+      "published_at": "2017-07-26",
+      "total_videos": 34,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkxYR9ly9ksx8UYyCpBRmMc"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU",
+      "title": "CSS3 in 30 Days",
+      "description": "",
+      "published_at": "2018-09-11",
+      "total_videos": 31,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC",
+      "title": "React Tutorials",
+      "description": "",
+      "published_at": "2018-09-17",
+      "total_videos": 29,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC",
+      "title": "Game Programming Tutorials",
+      "description": "",
+      "published_at": "2018-08-15",
+      "total_videos": 28,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkyQnSv-DNXOKsglcHhYAV2",
+      "title": "The Doer Vlog",
+      "description": "The Code Vlog by the doer.",
+      "published_at": "2016-12-20",
+      "total_videos": 23,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyQnSv-DNXOKsglcHhYAV2"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E",
+      "title": "Front End Developer Learning Path",
+      "description": "If you want to become a frontend developer, this is where to start. This is our frontend developer learning path. We’ve curated a collection of top-no",
+      "published_at": "2023-08-23",
+      "total_videos": 22,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbm8xtgbS_RAj2bYTTO0Coja",
+      "title": "Streams",
+      "description": "",
+      "published_at": "2016-05-02",
+      "total_videos": 21,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbm8xtgbS_RAj2bYTTO0Coja"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1",
+      "title": "Data Science",
+      "description": "",
+      "published_at": "2019-01-29",
+      "total_videos": 20,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s",
+      "title": "Machine Learning",
+      "description": "",
+      "published_at": "2019-01-07",
+      "total_videos": 18,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbm5-JxLHvTxSdp8gsTayxPi",
+      "title": "Developer Interviews",
+      "description": "",
+      "published_at": "2017-02-12",
+      "total_videos": 17,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbm5-JxLHvTxSdp8gsTayxPi"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs",
+      "title": "DevOps Courses",
+      "description": "",
+      "published_at": "2020-06-12",
+      "total_videos": 17,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD",
+      "title": "Computer Science Concepts",
+      "description": "",
+      "published_at": "2018-05-15",
+      "total_videos": 17,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM",
+      "title": "Back End Developer Learning Path",
+      "description": "If you want to become a backend developer, this is where to start. This is our backend developer learning path. We’ve curated a collection of top-notc",
+      "published_at": "2023-12-14",
+      "total_videos": 17,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmcla_n9Haxp8PfTGYXIBwP",
+      "title": "React Live Coding (Project 4) - Live Coding with Jesse",
+      "description": "",
+      "published_at": "2017-11-08",
+      "total_videos": 16,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmcla_n9Haxp8PfTGYXIBwP"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23",
+      "title": "Python Basics with Sam",
+      "description": "",
+      "published_at": "2020-07-15",
+      "total_videos": 14,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ",
+      "title": "Data Structures and Algorithms - Beau teaches JavaScript",
+      "description": "",
+      "published_at": "2017-02-27",
+      "total_videos": 13,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC",
+      "title": "Popular Programming Courses",
+      "description": "",
+      "published_at": "2019-09-27",
+      "total_videos": 13,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblh4QvUtzEq4qgs_bnvBrw2",
+      "title": "React Native Web (Project 7) - Live Coding with Jesse",
+      "description": "",
+      "published_at": "2019-01-18",
+      "total_videos": 13,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblh4QvUtzEq4qgs_bnvBrw2"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB",
+      "title": "Python Tutorials",
+      "description": "A collection of Python tutorials.",
+      "published_at": "2018-10-31",
+      "total_videos": 12,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz",
+      "title": "CS50's Introduction to Game Development",
+      "description": "",
+      "published_at": "2019-01-31",
+      "total_videos": 12,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF",
+      "title": "Git & GitHub",
+      "description": "",
+      "published_at": "2016-09-17",
+      "total_videos": 11,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO",
+      "title": "JavaScript and the HTML DOM - Tutorial Playlist",
+      "description": "",
+      "published_at": "2017-04-20",
+      "total_videos": 11,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblzbwhT83fRh5nNSHqywxrw",
+      "title": "Networks",
+      "description": "",
+      "published_at": "2016-09-17",
+      "total_videos": 10,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblzbwhT83fRh5nNSHqywxrw"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v",
+      "title": "Mathematics",
+      "description": "",
+      "published_at": "2020-07-22",
+      "total_videos": 10,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB",
+      "title": "jQuery - Beau teaches JavaScript",
+      "description": "",
+      "published_at": "2017-07-17",
+      "total_videos": 10,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F",
+      "title": "ES6 - Beau teaches JavaScript",
+      "description": "",
+      "published_at": "2017-02-27",
+      "total_videos": 10,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88",
+      "title": "HTML and CSS Tutorials",
+      "description": "A collection of HTML tutorials.",
+      "published_at": "2018-10-15",
+      "total_videos": 10,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbk7zM11M36sGvU29hB8EDC4",
+      "title": "The Daily Programmer",
+      "description": "",
+      "published_at": "2017-07-14",
+      "total_videos": 9,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbk7zM11M36sGvU29hB8EDC4"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi",
+      "title": "Introduction to Computer Science - Harvard's CS50",
+      "description": "",
+      "published_at": "2019-01-22",
+      "total_videos": 9,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbm0gPNunWf4pr4xV8I3Geh-",
+      "title": "Agile Software Development",
+      "description": "",
+      "published_at": "2017-07-04",
+      "total_videos": 9,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbm0gPNunWf4pr4xV8I3Geh-"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V",
+      "title": "JavaScript Tutorials",
+      "description": "A collection of JavaScript tutorials.",
+      "published_at": "2018-12-07",
+      "total_videos": 9,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkPX-lJHxjXdsw19vbXIZpz",
+      "title": "Vue.js Live Coding with Gwen",
+      "description": "",
+      "published_at": "2020-07-30",
+      "total_videos": 8,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkPX-lJHxjXdsw19vbXIZpz"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs",
+      "title": "Angular Tutorials",
+      "description": "",
+      "published_at": "2018-12-18",
+      "total_videos": 8,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk",
+      "title": "Node.js Tutorials",
+      "description": "",
+      "published_at": "2018-12-17",
+      "total_videos": 8,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh",
+      "title": "Clean Code - Beau teaches JavaScript",
+      "description": "",
+      "published_at": "2017-02-27",
+      "total_videos": 8,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m",
+      "title": "C / C++",
+      "description": "",
+      "published_at": "2021-09-27",
+      "total_videos": 8,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmSg8HtUEs0SJ-mzBIN3nEm",
+      "title": "A day at...",
+      "description": "",
+      "published_at": "2017-07-05",
+      "total_videos": 8,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmSg8HtUEs0SJ-mzBIN3nEm"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV",
+      "title": "Serverless",
+      "description": "",
+      "published_at": "2018-07-18",
+      "total_videos": 7,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblKO_wHAvlpZwAYvYPbHKOp",
+      "title": "Front End Web Development",
+      "description": "Learn the basics of front end web development from freeCodeCamp.org. You will learn everything you need to know to start creating websites, including ",
+      "published_at": "2025-04-18",
+      "total_videos": 7,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblKO_wHAvlpZwAYvYPbHKOp"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbnQ048Pa8sAqJoVRhx8TJtM",
+      "title": "Some of our Nonprofit Projects",
+      "description": "",
+      "published_at": "2016-04-17",
+      "total_videos": 7,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnQ048Pa8sAqJoVRhx8TJtM"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmh6kzCSUon-SoTaMvXnHMB",
+      "title": "Unity Tutorials",
+      "description": "A collection of Unity tutorials.",
+      "published_at": "2018-12-18",
+      "total_videos": 7,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmh6kzCSUon-SoTaMvXnHMB"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu",
+      "title": "Ethical Hacking",
+      "description": "",
+      "published_at": "2019-01-16",
+      "total_videos": 7,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbnadueQ-C5keMQQiQau_i0D",
+      "title": "Full Stack Web App in Vue.js & Express.js",
+      "description": "",
+      "published_at": "2017-09-06",
+      "total_videos": 7,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnadueQ-C5keMQQiQau_i0D"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG",
+      "title": "Java Tutorials",
+      "description": "",
+      "published_at": "2019-05-21",
+      "total_videos": 7,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU",
+      "title": "Brain Computer App with React Native - Live Coding with Jesse",
+      "description": "",
+      "published_at": "2020-03-28",
+      "total_videos": 7,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ",
+      "title": "Data Analysis with Python Course",
+      "description": "",
+      "published_at": "2020-08-13",
+      "total_videos": 6,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9",
+      "title": "Coding Interview",
+      "description": "",
+      "published_at": "2019-04-12",
+      "total_videos": 6,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa",
+      "title": "Deep Learning with PyTorch Live Course",
+      "description": "",
+      "published_at": "2020-05-26",
+      "total_videos": 6,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblMiJPkJBny7WbfTYc6z27r",
+      "title": "Alexa Skill Development",
+      "description": "",
+      "published_at": "2018-07-13",
+      "total_videos": 5,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblMiJPkJBny7WbfTYc6z27r"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp",
+      "title": "Deep Learning with PyTorch Course - December 2020",
+      "description": "",
+      "published_at": "2020-12-04",
+      "total_videos": 4,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704",
+      "title": "Design Patterns - Beau teaches JavaScript",
+      "description": "",
+      "published_at": "2017-02-27",
+      "total_videos": 4,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbnUeereoJWjWOhlcWUynq_Z",
+      "title": "Ask Preethi",
+      "description": "",
+      "published_at": "2017-07-04",
+      "total_videos": 4,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnUeereoJWjWOhlcWUynq_Z"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkoMsX4hgwxbJZW4aB0cbaB",
+      "title": "PHP Tutorials",
+      "description": "",
+      "published_at": "2019-05-07",
+      "total_videos": 3,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkoMsX4hgwxbJZW4aB0cbaB"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAblFnET3DbnAik--u4CBz62G",
+      "title": "Django Tutorials",
+      "description": "",
+      "published_at": "2019-04-23",
+      "total_videos": 3,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblFnET3DbnAik--u4CBz62G"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbnon7MZndnKeGEfQbXjwOqd",
+      "title": "WordPress",
+      "description": "",
+      "published_at": "2019-03-11",
+      "total_videos": 3,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnon7MZndnKeGEfQbXjwOqd"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmqk3-E3MPFVoWMufdbR4qW",
+      "title": "Logic for Programmers",
+      "description": "",
+      "published_at": "2018-08-20",
+      "total_videos": 2,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqk3-E3MPFVoWMufdbR4qW"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkq5Oh8ERRJ1aPZK2NKBSRx",
+      "title": "C# Tutorials",
+      "description": "",
+      "published_at": "2019-03-25",
+      "total_videos": 2,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkq5Oh8ERRJ1aPZK2NKBSRx"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkE0Or3HVMRTy-mq_wFUNVv",
+      "title": "Vue.js",
+      "description": "",
+      "published_at": "2019-03-19",
+      "total_videos": 2,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkE0Or3HVMRTy-mq_wFUNVv"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbko4Ob-wS8spASazBNlf4tT",
+      "title": "Senior Developer Skills",
+      "description": "",
+      "published_at": "2016-10-30",
+      "total_videos": 2,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbko4Ob-wS8spASazBNlf4tT"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmnstg9rF7jCo1LO3hC7p4r",
+      "title": "Resume Reviews",
+      "description": "",
+      "published_at": "2018-10-30",
+      "total_videos": 2,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmnstg9rF7jCo1LO3hC7p4r"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbloeeXn1-G1qKQLr006B9n6",
+      "title": "Top Contributor Parties",
+      "description": "",
+      "published_at": "2018-09-28",
+      "total_videos": 1,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbloeeXn1-G1qKQLr006B9n6"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkfiXnJ3BRB9kFO-IUV4vWg",
+      "title": "freeCodeCamp Hackathon",
+      "description": "",
+      "published_at": "2018-11-15",
+      "total_videos": 1,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkfiXnJ3BRB9kFO-IUV4vWg"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbkPz27wpMpBdNbF8wzH_lWh",
+      "title": "App Development Tutorials",
+      "description": "",
+      "published_at": "2019-05-17",
+      "total_videos": 1,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkPz27wpMpBdNbF8wzH_lWh"
+    },
+    {
+      "playlist_id": "PLWKjhJtqVAbmfeXEWjfX3PmcMPVeGEc-0",
+      "title": "Developer Ethics",
+      "description": "",
+      "published_at": "2017-06-05",
+      "total_videos": 0,
+      "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfeXEWjfX3PmcMPVeGEc-0"
+    }
+  ],
+  "summary": {
+    "total_videos": 12,
+    "total_playlists": 74,
+    "most_viewed_video": "React Course - Beginner's Tutorial for React JavaScript Library [2022]",
+    "most_liked_video": "React Course - Beginner's Tutorial for React JavaScript Library [2022]",
+    "most_commented_video": "React Course - Beginner's Tutorial for React JavaScript Library [2022]",
+    "avg_views": 412914,
+    "avg_likes": 7606,
+    "avg_comments": 282,
+    "total_views_all_videos": 4954977
+  }
+}
