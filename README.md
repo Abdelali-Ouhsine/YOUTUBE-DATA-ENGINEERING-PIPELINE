@@ -7,7 +7,6 @@ processes, and analyzes data from the YouTube Data API v3.\
 The pipeline follows an **ETL (Extract, Transform, Load)** architecture
 and ends with data visualization in Power BI.
 
-
 ------------------------------------------------------------------------
 
 ## 🎯 Objectives
@@ -89,6 +88,7 @@ Structured Dataset → Power BI
     -   Trends over time
 
 ------------------------------------------------------------------------
+
 
 ## 🚀 Bonus Features
 
